@@ -1,8 +1,0 @@
-**/backup/
-**/lib/
-**/*.dbg
-**/*.exe
-**/*.unix
-**/*.unix.*
-**/ppas.sh
-**/*.res
